@@ -1,0 +1,7 @@
+C:\Users\kamig\source\repos\tarea01\tarea01\bin\Debug\tarea01.exe.config
+C:\Users\kamig\source\repos\tarea01\tarea01\bin\Debug\tarea01.exe
+C:\Users\kamig\source\repos\tarea01\tarea01\bin\Debug\tarea01.pdb
+C:\Users\kamig\source\repos\tarea01\tarea01\obj\Debug\tarea01.csproj.AssemblyReference.cache
+C:\Users\kamig\source\repos\tarea01\tarea01\obj\Debug\tarea01.csproj.CoreCompileInputs.cache
+C:\Users\kamig\source\repos\tarea01\tarea01\obj\Debug\tarea01.exe
+C:\Users\kamig\source\repos\tarea01\tarea01\obj\Debug\tarea01.pdb
